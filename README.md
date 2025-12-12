@@ -9,7 +9,7 @@ Each task is framed to test:
 - Responsiveness & accessibility
 - Creativity in layout and interaction
 
-You can attempt **any number of tasks** unless the overall hackathon guidelines specify otherwise.
+You can attempt **any number of tasks**.
 
 ---
 
@@ -38,7 +38,7 @@ Final submission instructions will follow the *main hackathon rules*.
 Please follow the PatchFest platform’s guidelines for uploading your entry.
 
 Typical design submissions usually include:
-- A **Figma link** (set to “Anyone with the link can view”)
+- A **Figma link/XD link/Any other tool** (set to “Anyone with the link can view”)
 - Screenshots (desktop + mobile, if responsive)
 - A brief explanation of design decisions *(optional)*
 
@@ -53,13 +53,6 @@ But again — follow the official event instructions.
 | 🟢 Easy | Beginner-friendly UI tasks |
 | 🟡 Medium | Intermediate layout + interactions |
 | 🔴 Hard | Full UI/UX thinking + multiple screens |
-
----
-
-## 🤝 Contributing
-
-We welcome improvements!  
-If you want to suggest a new task or fix clarity in existing tasks, read our **[Contribution Guidelines](CONTRIBUTING.md)**.
 
 ---
 
